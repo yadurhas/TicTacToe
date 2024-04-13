@@ -1,0 +1,14 @@
+From glancing the react tic tac toe tutorial, I gleamed that every one of those table cell needs to be a button.
+
+Didn't really end up doing that, I just needed them to be clickable.
+
+So, for every cell, I added an event handler so as to act when clicked.
+
+Check whether the game ended for every click and display the winner if it did along with a restart button
+
+
+Learnings/drawbacks:
+
+Shouldn't have done this in an table. May be a flexbox or a grid. Need to master those, and also need to grip on wrapping content.
+
+Am not sure about the table tag, I can't seem to properly handle the padding and margin properties of the table elements
